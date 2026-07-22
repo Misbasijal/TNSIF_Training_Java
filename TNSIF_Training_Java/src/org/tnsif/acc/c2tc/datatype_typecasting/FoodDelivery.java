@@ -3,7 +3,7 @@ package org.tnsif.acc.c2tc.datatype_typecasting;
 public class FoodDelivery {
 
 	public static void main(String[] args) {
-		//Primitive datatype
+		//Primitive data type
 		
 		int     orderId =101;
 		double  price=299.99;
@@ -15,7 +15,7 @@ public class FoodDelivery {
 		short   restaurantId=12;
 				
 				
-		//Non  Primitive datatype
+		//Non  Primitive data type
 				
 		String CustomerName="Anajli";
 		String[] foodItem= {"Burger" , "Fries","Coke"};
