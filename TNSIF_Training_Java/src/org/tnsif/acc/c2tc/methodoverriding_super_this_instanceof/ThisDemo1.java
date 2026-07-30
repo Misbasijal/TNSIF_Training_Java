@@ -1,10 +1,10 @@
-package org.tnsif.acc.c2tc.methodoverriding_super_this;
+package org.tnsif.acc.c2tc.methodoverriding_super_this_instanceof;
 
 class ProductBottle{
 	
-	double price;
+	double price;//class attribute
 	
-	ProductBottle(double price){
+	ProductBottle(double price){//parameter
 		this.price=price;
 	}
 	
