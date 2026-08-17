@@ -1,10 +1,10 @@
-package org.tnsif.acc.c2tc.scannerclass_bufferreader;
+package org.tnsif.acc.c2tc.exceptionhandling;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class bufferReaderDemo {
+public class IOExceptionDemo {
 
     public static void main(String[] args) throws IOException {
 
