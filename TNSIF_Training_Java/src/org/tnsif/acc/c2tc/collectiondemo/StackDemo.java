@@ -1,6 +1,5 @@
 package org.tnsif.acc.c2tc.collectiondemo;
 
-import java.util.List;
 import java.util.Stack;
 
 public class StackDemo {
